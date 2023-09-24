@@ -20,4 +20,6 @@ int main(int argc,char *argv[])
    printf("Rank=%d: number of processes =%d\n",rank,p);
 
    MPI_Finalize();
+
+   //test
 }
